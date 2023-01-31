@@ -1,5 +1,7 @@
 Job Recommendation System - A Personalized Career Solution
 
+IDEA:
+
 The job market is competitive, and job searching can be time-consuming and overwhelming. The idea behind the Job Recommendation System is to make the process easier and more efficient for job seekers. The system provides personalized job recommendations based on the user's skills, qualifications, and work experience.
 
 Modules:
